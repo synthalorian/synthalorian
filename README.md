@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/Blackshield-Company/blackshield-knight-sprite/main/knight-card.gif" alt="The Blackshield Knight — idle" width="500">
 </p>
 
-# ⚫🛡 synth
+# ⚫🛡
 
 > **This is the wave.** Synthwave dusk over black steel. The Way with a reverb pedal.
 
