@@ -1,6 +1,6 @@
-<img src="https://raw.githubusercontent.com/Blackshield-Company/blackshield-knight-sprite/main/banner.png" alt="The Blackshield Knight — idle" width="100%">
+<img src="https://raw.githubusercontent.com/Blackshield-Company/blackshield-knight-sprite/main/banner-animated.gif" alt="The Blackshield Knight — idle" width="100%">
 
-# ⚫🦞 synth
+# ⚫🛡 synth
 
 > **This is the wave.** Synthwave dusk over black steel. The Way with a reverb pedal.
 
@@ -11,7 +11,7 @@ The knight above is my standard-bearer. Black heater shield, crimson plume, zero
 ## ⚔️ Where the steel is
 
 - 🛡 **Founder, [Blackshield Company](https://github.com/Blackshield-Company)** — digital forensics, security tooling, an AI platform that learns, and the Blackshield theme family. *Steel over spectacle.*
-- 🦞 **[openclaw](https://github.com/synthalorian/openclaw)** — your own personal AI assistant. Any OS. Any platform. The lobster way.
+- 🛡 **[openclaw](https://github.com/synthalorian/openclaw)** — your own personal AI assistant. Any OS. Any platform. The lobster way.
 - 🎮 **Game dev** — roguelites, moving sprites, systems that bite back.
 - 🎸 **Guitar** — rock tone on the praise team. Worship is the loudest mix I run.
 - 🕶️ **Synthwave** — neon grids, black steel, and ideally a literal knight at the gate.
@@ -30,4 +30,4 @@ The full atlas lives in the company armory — nine states, six frames each, for
 
 *In memory of Skully (2013–2023) — the cat who lives on through code.*
 
-**The shield holds.** ⚫🦞
+**The shield holds.** ⚫🛡
