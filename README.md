@@ -1,4 +1,6 @@
-<img src="https://raw.githubusercontent.com/Blackshield-Company/blackshield-knight-sprite/main/banner-animated.gif" alt="The Blackshield Knight — idle" width="100%">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Blackshield-Company/blackshield-knight-sprite/main/knight-card.gif" alt="The Blackshield Knight — idle" width="500">
+</p>
 
 # ⚫🛡 synth
 
