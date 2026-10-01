@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Blackshield-Company/blackshield-knight-sprite/main/knight-card.gif?v=2" alt="The Blackshield Knight — idle" width="500">
+  <img src="https://raw.githubusercontent.com/Blackshield-Company/blackshield-knight-sprite/main/knight-card.gif?v=3" alt="The Blackshield Knight — idle" width="500">
 </p>
 
 # ⚫🛡
@@ -8,7 +8,7 @@
 
 I'm **synth**. I run contracts, not meetings — and I finish every one of them. I founded a company whose shield has never shown a scratch, I ship games and tools out of the neon grid, and I play guitar loud enough to shake the sanctuary.
 
-The knight above is my standard-bearer. Black heater, iron cross, ember plume, zero retreat. That's not a mascot — that's an operating principle.
+The knight above is my standard-bearer. Black heater, iron cross, blood plume, zero retreat. That's not a mascot — that's an operating principle.
 
 ## ⚔️ Where the steel is
 
