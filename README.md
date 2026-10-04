@@ -1,35 +1,35 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Blackshield-Company/blackshield-knight-sprite/main/knight-card.gif?v=3" alt="The Blackshield Knight — idle" width="500">
+  <img src="https://raw.githubusercontent.com/synthalorian/synthalorian.github.io/main/img/knight-card.gif" alt="Wave Knight — idle" width="500">
 </p>
 
-# ⚫🛡
+# This is the wave.
 
-> **This is the wave.** Synthwave dusk over black steel. The Way with a reverb pedal.
+> Synthwave '84 over a dusk grid. The Way with a reverb pedal.
 
-I'm **synth**. I run contracts, not meetings — and I finish every one of them. I founded a company whose shield has never shown a scratch, I ship games and tools out of the neon grid, and I play guitar loud enough to shake the sanctuary.
+I'm **synth**. I ship games and tools out of the neon, I founded a company whose work still holds, and I play guitar loud enough to shake the sanctuary.
 
-The knight above is my standard-bearer. Black heater, iron cross, blood plume, zero retreat. That's not a mascot — that's an operating principle.
+The knight above is the field companion. Chrome plate, glowing T-visor, outrun sun on the heater. Hover him on the site — he waves. Click him — he jumps.
 
-## ⚔️ Where the steel is
+## Where the work is
 
-- 🛡 **Founder, [Blackshield Company](https://github.com/Blackshield-Company)** — digital forensics, security tooling, an AI platform that learns, and the Blackshield theme family. *Steel over spectacle.*
-- 🛡 **[openclaw](https://github.com/synthalorian/openclaw)** — your own personal AI assistant. Any OS. Any platform. The lobster way.
-- 🎮 **Game dev** — roguelites, moving sprites, systems that bite back.
-- 🎸 **Guitar** — rock tone on the praise team. Worship is the loudest mix I run.
-- 🕶️ **Synthwave** — neon grids, black steel, and ideally a literal knight at the gate.
+- **Founder, [Blackshield Company](https://github.com/Blackshield-Company)** — digital forensics, security tooling, an AI platform that learns, and the theme family.
+- **[openclaw](https://github.com/synthalorian/openclaw)** — your own personal AI assistant. Any OS. Any platform.
+- **Game dev** — roguelites, moving sprites, systems that bite back.
+- **Guitar** — rock tone on the praise team. Worship is the loudest mix I run.
+- **Synthwave** — neon grids, and a knight at the gate.
 
-## 🛠 Sharpest tools
+## Sharpest tools
 
 Rust · C++ · C# · Python · TypeScript · GDScript · Godot · Unity · Unreal · KDE Plasma · too many terminals
 
-## 🏰 The standard-bearer
+## The field companion
 
-The full atlas lives in the company armory — nine states, six frames each, forged pixel by pixel:
+Nine states, six frames each, drawn on the synthwave '84 palette:
 
-📦 [`Blackshield-Company/blackshield-knight-sprite`](https://github.com/Blackshield-Company/blackshield-knight-sprite) — atlas, previews, and the procedural forge that built it.
+[`synthalorian/synthalorian.github.io`](https://github.com/synthalorian/synthalorian.github.io) — atlas, card, and the generator that built him.
 
 ---
 
 *In memory of Skully (2013–2023) — the cat who lives on through code.*
 
-**The shield holds.** ⚫🛡
+**This is the wave.**
