@@ -33,3 +33,5 @@ Nine states, six frames each, drawn on the synthwave '84 palette:
 *In memory of Skully (2013–2023) — the cat who lives on through code.*
 
 **This is the wave.**
+
+**The shield holds.** ⚫🛡
