@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/synthalorian/synthalorian.github.io/main/img/knight-card.gif" alt="Blackshield Knight — idle" width="384">
+  <img src="https://synthalorian.github.io/img/knight-card.gif" alt="Blackshield Knight — idle" width="384">
 </p>
 
 # The shield holds.
