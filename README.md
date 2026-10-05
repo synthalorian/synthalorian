@@ -1,14 +1,14 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/synthalorian/synthalorian.github.io/main/img/knight-card.gif" alt="Wave Knight — idle" width="500">
+  <img src="https://raw.githubusercontent.com/synthalorian/synthalorian.github.io/main/img/knight-card.gif" alt="Blackshield Knight — idle" width="384">
 </p>
 
-# This is the wave.
+# The shield holds.
 
-> Synthwave '84 over a dusk grid. The Way with a reverb pedal.
+> Iron, bone, and a blood-red cross. Mercenary work, shipped in the open.
 
-I'm **synth**. I ship games and tools out of the neon, I founded a company whose work still holds, and I play guitar loud enough to shake the sanctuary.
+I'm **synth**. I ship games and tools, I founded a company whose work still holds, and I play guitar loud enough to shake the sanctuary.
 
-The knight above is the field companion. Chrome plate, glowing T-visor, outrun sun on the heater. Hover him on the site — he waves. Click him — he jumps.
+The knight above is the field companion. Matte plate, iron cross, blood plume. Hover him on the site — he waves. Click him — he jumps.
 
 ## Where the work is
 
@@ -16,7 +16,6 @@ The knight above is the field companion. Chrome plate, glowing T-visor, outrun s
 - **[openclaw](https://github.com/synthalorian/openclaw)** — your own personal AI assistant. Any OS. Any platform.
 - **Game dev** — roguelites, moving sprites, systems that bite back.
 - **Guitar** — rock tone on the praise team. Worship is the loudest mix I run.
-- **Synthwave** — neon grids, and a knight at the gate.
 
 ## Sharpest tools
 
@@ -24,14 +23,12 @@ Rust · C++ · C# · Python · TypeScript · GDScript · Godot · Unity · Unrea
 
 ## The field companion
 
-Nine states, six frames each, drawn on the synthwave '84 palette:
+Nine states, six frames each, drawn on the Blackshield palette:
 
 [`synthalorian/synthalorian.github.io`](https://github.com/synthalorian/synthalorian.github.io) — atlas, card, and the generator that built him.
 
 ---
 
 *In memory of Skully (2013–2023) — the cat who lives on through code.*
-
-**This is the wave.**
 
 **The shield holds.** ⚫🛡
