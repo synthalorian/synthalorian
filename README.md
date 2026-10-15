@@ -1,3 +1,5 @@
+![synthalorian](.github/preview.png)
+
 <p align="center">
   <img src="https://synthalorian.github.io/img/knight-card.gif" alt="Blackshield Knight — idle" width="384">
 </p>
