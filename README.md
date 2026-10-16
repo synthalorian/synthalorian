@@ -1,7 +1,7 @@
 ![synthalorian](.github/preview.png)
 
 <p align="center">
-  <img src="https://synthalorian.github.io/img/knight-card.gif" alt="Blackshield Knight — idle" width="384">
+  <img src="assets/knight/knight-idle.gif" alt="Knight A, the Blackshield Company mascot, idle" width="256">
 </p>
 
 # The shield holds.
@@ -10,7 +10,7 @@
 
 I'm **synth**. I ship games and tools, I founded a company whose work still holds, and I play guitar loud enough to shake the sanctuary.
 
-The knight above is the field companion. Matte plate, iron cross, blood plume. Hover him on the site — he waves. Click him — he jumps.
+The knight above is Knight A, the Blackshield Company mascot. Steel plate, red cross, blood plume. He stands watch in the [OpenShield](https://github.com/Blackshield-Company/openshield) terminal.
 
 ## Where the work is
 
@@ -25,9 +25,17 @@ Rust · C++ · C# · Python · TypeScript · GDScript · Godot · Unity · Unrea
 
 ## The field companion
 
-Nine states, six frames each, drawn on the Blackshield palette:
+Five states, drawn pixel by pixel on the Blackshield palette:
 
-[`synthalorian/synthalorian.github.io`](https://github.com/synthalorian/synthalorian.github.io) — atlas, card, and the generator that built him.
+<p align="center">
+  <img src="assets/knight/knight-idle.gif" alt="Idle" width="128" title="Idle">
+  <img src="assets/knight/knight-thinking.gif" alt="Thinking" width="128" title="Thinking">
+  <img src="assets/knight/knight-working.gif" alt="Working" width="128" title="Working">
+  <img src="assets/knight/knight-success.gif" alt="Success" width="128" title="Success">
+  <img src="assets/knight/knight-error.gif" alt="Error" width="128" title="Error">
+</p>
+
+Idle · thinking · working · success · error. The generator lives in [`openshield/scripts/knight-sprite.py`](https://github.com/Blackshield-Company/openshield/blob/main/scripts/knight-sprite.py).
 
 ---
 
