@@ -1,5 +1,3 @@
-![synthalorian](.github/preview.png)
-
 <p align="center">
   <img src="assets/knight/knight-idle.gif" alt="Knight A, the Blackshield Company mascot, idle" width="256">
 </p>
