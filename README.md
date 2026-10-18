@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="assets/synthalorian/cover-gunship-1200x400.jpg" alt="A navy gunship with glowing blue engines cruising over a neon synthwave city, a striped magenta-and-orange sun on the horizon" width="100%">
-</p>
-
-<p align="center">
   <img src="assets/synthalorian/synthalorian-idle-128.gif" alt="The pixel synthalorian, synth's personal character: a black Mandalorian-style helmet with a glowing pink visor, idling" width="128">
 </p>
 
@@ -43,4 +39,3 @@ Idle · thinking · working · success · error. The generator lives in [`opensh
 
 **Ride the neon.** 🌆
 
-<sub>AI-assisted art: the gunship cover and the pixel synthalorian.</sub>
