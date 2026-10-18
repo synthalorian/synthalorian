@@ -15,7 +15,7 @@ I'm **synth**, the synthalorian. I ship games and tools, I founded a studio whos
 ## Flight plan
 
 - **Founder, [Blackshield Company](https://github.com/Blackshield-Company)** — digital forensics, security tooling, an AI platform that learns, and the theme family.
-- **[openclaw](https://github.com/synthalorian/openclaw)** — your own personal AI assistant. Any OS. Any platform.
+- **[openclaw](https://github.com/synthalorian/openclaw)**: I write PRs for openclaw.
 - **Game dev** — roguelites, moving sprites, systems that bite back.
 - **Guitar** — rock tone on the praise team. Worship is the loudest mix I run.
 
