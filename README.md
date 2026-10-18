@@ -21,7 +21,7 @@ Rust · C++ · C# · Python · TypeScript · GDScript · Godot · Unity · Unrea
 
 ## The studio's knight
 
-Blackshield Company flies its own colors. Its mascot is Knight A — steel plate, red cross, blood plume — and he stands watch in the [OpenShield](https://github.com/Blackshield-Company/openshield) terminal. Five states, drawn pixel by pixel on the Blackshield palette:
+Blackshield Company flies its own colors. Its mascot is Knight A — black steel, a worn crimson cross, blood-red plume — and he stands watch in the [OpenShield](https://github.com/Blackshield-Company/openshield) terminal. Five states, drawn pixel by pixel on the Blackshield palette:
 
 <p align="center">
   <img src="assets/knight/knight-idle.gif" alt="Knight A, the Blackshield Company mascot, idle" width="128" title="Idle">
