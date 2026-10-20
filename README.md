@@ -40,7 +40,7 @@ Eight moves for every leg of the night run. Same black helmet, same pink visor, 
 
 ## The studio's knight
 
-Blackshield Company flies its own colors. Its mascot is Knight A — black steel, a worn crimson cross, blood-red plume — and he stands watch in the [OpenShield](https://github.com/Blackshield-Company/openshield) terminal. Five states, drawn pixel by pixel on the Blackshield palette:
+Blackshield Company flies its own colors. Its mascot is Knight A — black steel, a worn crimson cross, blood-red plume — and he stands watch in the [OpenShield](https://github.com/synthalorian/openshield) terminal. Five states, drawn pixel by pixel on the Blackshield palette:
 
 <p align="center">
   <img src="assets/knight/knight-idle.gif" alt="Knight A, the Blackshield Company mascot, idle" width="128" title="Idle">
@@ -50,7 +50,7 @@ Blackshield Company flies its own colors. Its mascot is Knight A — black steel
   <img src="assets/knight/knight-error.gif" alt="Knight A, error" width="128" title="Error">
 </p>
 
-Idle · thinking · working · success · error. The generator lives in [`openshield/scripts/knight-sprite.py`](https://github.com/Blackshield-Company/openshield/blob/main/scripts/knight-sprite.py).
+Idle · thinking · working · success · error. The generator lives in [`openshield/scripts/knight-sprite.py`](https://github.com/synthalorian/openshield/blob/main/scripts/knight-sprite.py).
 
 ---
 
