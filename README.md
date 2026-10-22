@@ -6,7 +6,7 @@ Ride the neon.
 
 synth builds Rust dev tools, self-hosted apps, audio plugins, Skyrim SE mods, and Linux desktop themes.
 
-[Website](https://synthalorian.com) · [Blackshield Company](https://synthalorian.com/#blackshield) · [Support synth](https://ko-fi.com/synthalorian)
+[Website](https://synthalorian.com) · [Blackshield Company](https://synthalorian.com/blackshield/) · [Support synth](https://ko-fi.com/synthalorian)
 
 ## Blackshield Company
 
@@ -23,7 +23,7 @@ My solo studio. Rust dev tools, self-hosted apps, audio plugins and Skyrim SE mo
 
 Company Quartermaster, Scarred Steel, War Banners, Ember Smithing, Rival Companies, The Barrow-Iron Pact and The Turncoat Contract are all early betas. All are ESL-flagged; most need no SKSE.
 
-[Browse the mods and the known issues page](https://synthalorian.com/#mods)
+[Browse the mods and the known issues page](https://synthalorian.com/mods/)
 
 ## Glyphsmith
 
@@ -37,7 +37,7 @@ Carefully tuned themes and tools for the Linux desktop: Omarchy 4 and Hyprland t
 omarchy-theme-install https://github.com/synthalorian/omarchy-neon-horizon-theme
 ```
 
-[Explore Glyphsmith](https://synthalorian.com/#glyphsmith)
+[Explore Glyphsmith](https://synthalorian.com/glyphsmith/)
 
 ## Contact
 
