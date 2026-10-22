@@ -1,60 +1,46 @@
-<p align="center">
-  <img src="assets/synthalorian/synthalorian-idle-128.gif" alt="The pixel synthalorian, synth's personal character: a black Mandalorian-style helmet with a glowing pink visor, idling" width="128">
-</p>
+# the synthalorian
 
-# Ride the neon.
+<p align="center"><img src="assets/synthalorian/synthalorian-idle-128.gif" alt="The pixel synthalorian, synth's personal character, idling" width="128"></p>
 
-> Night runs, neon grids, and code shipped in the open. This is the synthalorian.
+Ride the neon.
 
-I'm **synth**, the synthalorian. I ship games and tools, I founded a studio whose work still holds, and I play guitar loud enough to shake the sanctuary.
+synth builds Rust dev tools, self-hosted apps, audio plugins, Skyrim SE mods, and Linux desktop themes.
 
-## Flight plan
+[Website](https://synthalorian.com) · [Blackshield Company](https://synthalorian.com/blackshield/) · [Support synth](https://ko-fi.com/synthalorian)
 
-- **Founder, [Blackshield Company](https://github.com/Blackshield-Company)** — digital forensics, security tooling, an AI platform that learns, and the theme family.
-- **[openclaw](https://github.com/synthalorian/openclaw)** — I ride shotgun upstream, shipping PRs into the open-source assistant.
-- **Game dev** — roguelites, moving sprites, systems that bite back.
-- **Guitar** — rock tone on the praise team. Worship is the loudest mix I run.
+## Blackshield Company
 
-## Loadout
+My solo studio. Rust dev tools, self-hosted apps, audio plugins and Skyrim SE mods.
 
-Rust · C++ · C# · Python · TypeScript · GDScript · Godot · Unity · Unreal · KDE Plasma · too many terminals
+- [OpenShield](https://github.com/synthalorian/openshield): terminal coding agent harness in Rust, with a TUI, a desktop app and a browser extension. No-key browser demo: `openshield demo`.
+- [SentryClaw](https://github.com/synthalorian/sentryclaw): self-hosted code review bot. No cloud, no API keys. Rust + Axum.
+- [wireclaw](https://github.com/synthalorian/wireclaw): local API proxy with a TUI. Capture, replay and inspect HTTP/HTTPS traffic, logged to SQLite.
+- [GhostBin](https://github.com/synthalorian/ghostbin): reverse engineering suite in Rust. Prebuilt binaries for Linux, macOS and Windows.
+- [Open Synth](https://github.com/synthalorian/open-synth): free, open-source synthesizer plugin. Standalone, VST3 and CLAP; JUCE 8 / C++20.
+- [Void Mercs](https://github.com/synthalorian/void-mercs-demo/releases): top-down mercenary action-RPG. Free playable demo out now; coming to Steam.
 
-## The synthalorian, in motion
+## Skyrim SE mods
 
-Eight moves for every leg of the night run. Same black helmet, same pink visor, pixel-crisp on the synthwave palette.
+Company Quartermaster, Scarred Steel, War Banners, Ember Smithing, Rival Companies, The Barrow-Iron Pact and The Turncoat Contract are all early betas. All are ESL-flagged; most need no SKSE.
 
-<table align="center">
-  <tr>
-    <td align="center" width="25%"><img src="assets/synthalorian/synthalorian-idle-128.gif" alt="The pixel synthalorian idling, visor pulsing" width="128" height="128"><br><sub><b>Idle</b><br>holding the line</sub></td>
-    <td align="center" width="25%"><img src="assets/synthalorian/synthalorian-walk-128.gif" alt="The pixel synthalorian walking the grid" width="128" height="128"><br><sub><b>Walk</b><br>cruising the grid</sub></td>
-    <td align="center" width="25%"><img src="assets/synthalorian/synthalorian-thinking-128.gif" alt="The pixel synthalorian thinking, thought dots rising from a raised hand" width="128" height="128"><br><sub><b>Thinking</b><br>plotting the course</sub></td>
-    <td align="center" width="25%"><img src="assets/synthalorian/synthalorian-working-128.gif" alt="The pixel synthalorian working a holo keyboard" width="128" height="128"><br><sub><b>Working</b><br>hands on the holo deck</sub></td>
-  </tr>
-  <tr>
-    <td align="center" width="25%"><img src="assets/synthalorian/synthalorian-success-128.gif" alt="The pixel synthalorian pumping a fist, visor flashing white" width="128" height="128"><br><sub><b>Success</b><br>mission clear</sub></td>
-    <td align="center" width="25%"><img src="assets/synthalorian/synthalorian-error-128.gif" alt="The pixel synthalorian, visor glitching red and sparking, then slumping" width="128" height="128"><br><sub><b>Error</b><br>signal lost</sub></td>
-    <td align="center" width="25%"><img src="assets/synthalorian/synthalorian-blaster-128.gif" alt="The pixel synthalorian drawing and firing a pink blaster bolt" width="128" height="128"><br><sub><b>Blaster</b><br>one shot, pink bolt</sub></td>
-    <td align="center" width="25%"><img src="assets/synthalorian/synthalorian-jetpack-128.gif" alt="The pixel synthalorian lifting off on a jetpack plume" width="128" height="128"><br><sub><b>Jetpack</b><br>punch it</sub></td>
-  </tr>
-</table>
+[Browse the mods and the known issues page](https://synthalorian.com/mods/)
 
-## The studio's knight
+## Glyphsmith
 
-Blackshield Company flies its own colors. Its mascot is Knight A — black steel, a worn crimson cross, blood-red plume — and he stands watch in the [OpenShield](https://github.com/synthalorian/openshield) terminal. Five states, drawn pixel by pixel on the Blackshield palette:
+Carefully tuned themes and tools for the Linux desktop: Omarchy 4 and Hyprland themes, plus small tools that make the whole setup match. Every theme installs with one command and uninstalls cleanly.
 
-<p align="center">
-  <img src="assets/knight/knight-idle.gif" alt="Knight A, the Blackshield Company mascot, idle" width="128" title="Idle">
-  <img src="assets/knight/knight-thinking.gif" alt="Knight A thinking" width="128" title="Thinking">
-  <img src="assets/knight/knight-working.gif" alt="Knight A working" width="128" title="Working">
-  <img src="assets/knight/knight-success.gif" alt="Knight A, success" width="128" title="Success">
-  <img src="assets/knight/knight-error.gif" alt="Knight A, error" width="128" title="Error">
-</p>
+- Themes: [Neon Horizon](https://github.com/synthalorian/omarchy-neon-horizon-theme), [Blackshield](https://github.com/synthalorian/omarchy-blackshield-theme), [Steel & Ember](https://github.com/synthalorian/omarchy-steel-and-ember-theme) ([all themes](https://github.com/synthalorian/glyphsmith-themes))
+- [Ricecard](https://github.com/synthalorian/ricecard): turns a desktop screenshot into a clean showcase card for X and Reddit.
+- [Palette Forge 0.1.1](https://github.com/synthalorian/palette-forge): takes one Omarchy palette and makes matching themes for ten apps.
 
-Idle · thinking · working · success · error. The generator lives in [`openshield/scripts/knight-sprite.py`](https://github.com/synthalorian/openshield/blob/main/scripts/knight-sprite.py).
+```sh
+omarchy-theme-install https://github.com/synthalorian/omarchy-neon-horizon-theme
+```
 
----
+[Explore Glyphsmith](https://synthalorian.com/glyphsmith/)
 
-*In memory of Skully (2013–2023) — the cat who lives on through code.*
+## Contact
 
-**Ride the neon.** 🌆
+Open for contract work: dev tools, automation, audio plugins and game systems.
 
+[Contact](https://synthalorian.com/#contact) · synth@synthalorian.com · [X @thesynthalorian](https://x.com/thesynthalorian) · [Studio on X](https://x.com/BlackshieldCo)
