@@ -1,16 +1,16 @@
-# the synthalorian
+<h1 align="center">synthalorian</h1>
 
-<p align="center"><img src="assets/synthalorian/synthalorian-idle-128.gif" alt="The pixel synthalorian idling" width="128"></p>
+<p align="center"><img src="assets/knight/knight-idle.gif" alt="The Blackshield knight: black plate, red plume, a black heater shield with a plain red cross, standing watch" width="256"></p>
 
-Ride the neon. 🎹
+<p align="center"><em>The shield holds.</em></p>
 
-I'm synth. I build the stuff I want to exist: Rust dev tools, self-hosted apps, synth plugins, Skyrim mods and Linux desktop themes. No cloud lock-in, no API keys if I can help it, and it has to look good doing it.
+I'm synth. I build what I want to exist: Rust dev tools, self-hosted apps, audio plugins, Skyrim mods and Linux desktop themes. It runs local, it answers to the user, and it doesn't phone home. No cloud lock-in, no API keys if I can help it.
 
-[Website](https://synthalorian.com) · [Blackshield Company](https://synthalorian.com/blackshield/) · [Buy me a coffee](https://ko-fi.com/synthalorian)
+[Website](https://synthalorian.com) · [Blackshield Company](https://synthalorian.com/blackshield/) · [Support the work](https://ko-fi.com/synthalorian)
 
 ## Blackshield Company
 
-My one-man studio. If it runs local and fights for the user, it lives here.
+My one-man studio. Iron, bone, blood. If it runs local and fights for the user, it lives here.
 
 - [OpenShield](https://github.com/synthalorian/openshield): my terminal coding agent harness in Rust. TUI, desktop app, browser extension. Try it with no key: `openshield demo`.
 - [SentryClaw](https://github.com/synthalorian/sentryclaw): a code review bot you host yourself. No cloud, no keys. Rust + Axum.
@@ -29,17 +29,21 @@ Company Quartermaster, Scarred Steel, War Banners, Ember Smithing, Rival Compani
 
 Themes and tools for the Linux desktop: Omarchy and Hyprland themes, plus tools that make the whole setup match. One command in, one command out.
 
-- Themes: [Neon Horizon](https://github.com/synthalorian/omarchy-neon-horizon-theme), [Blackshield](https://github.com/synthalorian/omarchy-blackshield-theme), [Steel & Ember](https://github.com/synthalorian/omarchy-steel-and-ember-theme) ([all of them](https://github.com/synthalorian/glyphsmith-themes))
+- Themes: [Blackshield](https://github.com/synthalorian/omarchy-blackshield-theme), [Steel & Ember](https://github.com/synthalorian/omarchy-steel-and-ember-theme) ([all of them](https://github.com/synthalorian/glyphsmith-themes))
 - [Ricecard](https://github.com/synthalorian/ricecard): turns a desktop screenshot into a clean card to show off your setup on X and Reddit.
 - [Palette Forge](https://github.com/synthalorian/palette-forge): give it one Omarchy palette and it makes matching themes for ten apps.
 
 ```sh
-omarchy-theme-install https://github.com/synthalorian/omarchy-neon-horizon-theme
+omarchy-theme-install https://github.com/synthalorian/omarchy-blackshield-theme
 ```
 
 [Explore Glyphsmith](https://synthalorian.com/glyphsmith/)
 
-## Hit me up
+## The knight
+
+The Blackshield knight is the company's mascot: black plate, red plume, a plain red cross on a black shield. He has five states (idle, thinking, working, success, error). The sprite atlas and its generator live in [blackshield-knight-sprite](https://github.com/synthalorian/blackshield-knight-sprite).
+
+## Hire the company
 
 I take contract work: dev tools, automation, audio plugins and game systems. If it's weird and technical, even better.
 
