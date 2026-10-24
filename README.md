@@ -10,7 +10,7 @@ I'm synth. I build what I want to exist: Rust dev tools, self-hosted apps, audio
 
 ## Blackshield Company
 
-My one-man studio. Iron, bone, blood. If it runs local and fights for the user, it lives here.
+My one-man studio. Guts Steel Code. If it runs local and fights for the user, it lives here.
 
 - [OpenShield](https://github.com/synthalorian/openshield): my terminal coding agent harness in Rust. TUI, desktop app, browser extension. Try it with no key: `openshield demo`.
 - [SentryClaw](https://github.com/synthalorian/sentryclaw): a code review bot you host yourself. No cloud, no keys. Rust + Axum.
