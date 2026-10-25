@@ -1,50 +1,33 @@
-<h1 align="center">synthalorian</h1>
+<p align="center">
+  <img src="assets/banner.jpg" alt="Synthwave warship over a neon grid, with the synthalorian helm" width="100%">
+</p>
 
-<p align="center"><img src="assets/knight/knight-idle.gif" alt="The Blackshield knight: black plate, red plume, a black heater shield with a plain red cross, standing watch" width="256"></p>
+<h1 align="center">
+  <img src="assets/helm-idle.gif" alt="" width="48" height="48" align="absmiddle">
+  synthalorian
+</h1>
 
-<p align="center"><em>The shield holds.</em></p>
+<p align="center"><b><i>This is the wave.</i></b></p>
 
-I'm synth. I build what I want to exist: Rust dev tools, self-hosted apps, audio plugins, Skyrim mods and Linux desktop themes. It runs local, it answers to the user, and it doesn't phone home. No cloud lock-in, no API keys if I can help it.
+I'm synth. I build game engines, synths and local-first developer tools, mostly in Rust, C++, Odin and Dart. Almost all of it is open source. I live in Florida, play guitar on a praise team, and make Skyrim mods when I need a break from systems code.
 
-[Website](https://synthalorian.com) · [Blackshield Company](https://synthalorian.com/blackshield/) · [Support the work](https://ko-fi.com/synthalorian)
+I'm open to collaborators, contract work and full-time roles in game tech, audio software, AI developer tooling and security.
 
-## Blackshield Company
+## Start here
 
-My one-man studio. Guts Steel Code. If it runs local and fights for the user, it lives here.
+| Project | What it is |
+| --- | --- |
+| [**OpenShield**](https://github.com/Blackshield-Company/openshield) | An AI coding harness for the terminal, in Rust. Works with any OpenAI-compatible provider, including local servers like Ollama and llama.cpp. Persistent SQLite memory and an autonomous agent mode. |
+| [**VoidEngine**](https://github.com/Blackshield-Company/voidengine) | A lightweight game engine with hot reload, in Odin and SDL2. ECS, 2D physics, audio, tilemaps, particles, OpenGL 3.3 and Vulkan. |
+| [**Open Synth**](https://github.com/synthalorian/open-synth) | An open-source synthesizer built on JUCE 8 and C++20. Standalone, VST3 and CLAP. Wavetable, FM and physical-modeling oscillators, 16-part multitimbral, 5,600 presets. |
+| [**wireclaw**](https://github.com/Blackshield-Company/wireclaw) | A local HTTP/HTTPS proxy that records API traffic into SQLite, with a web dashboard, a TUI, and export to OpenAPI, HAR, curl and Postman. |
+| [**Open Bible**](https://github.com/synthalorian/Open-Bible) | An offline Bible study app for Android and iOS, in Flutter. 20+ translations, Strong's Concordance, reading plans. |
+| [**Open Psalm**](https://github.com/synthalorian/open-psalm) | A Bible reader for your terminal, in C++20 and FTXUI. 10 translations, full-text search, cross-references, 11 color themes. |
 
-- [OpenShield](https://github.com/synthalorian/openshield): my terminal coding agent harness in Rust. TUI, desktop app, browser extension. Try it with no key: `openshield demo`.
-- [SentryClaw](https://github.com/synthalorian/sentryclaw): a code review bot you host yourself. No cloud, no keys. Rust + Axum.
-- [wireclaw](https://github.com/synthalorian/wireclaw): a local API proxy with a TUI. Capture, replay and pick apart HTTP/HTTPS traffic, all logged to SQLite.
-- [GhostBin](https://github.com/synthalorian/ghostbin): a reverse engineering suite in Rust, with binaries for Linux, macOS and Windows.
-- [Open Synth](https://github.com/synthalorian/open-synth): a free synth plugin, because good sound shouldn't cost rent. Standalone, VST3 and CLAP.
-- [Void Mercs](https://github.com/synthalorian/void-mercs-demo/releases): my top-down mercenary action-RPG. Steel, guts and void magic. The free demo is out now, Steam is next.
+There is a lot more than these six. The whole list, grouped, lives in the [portfolio](https://synthalorian.pages.dev).
 
-## Skyrim SE mods
+## Find me
 
-Company Quartermaster, Scarred Steel, War Banners, Ember Smithing, Rival Companies, The Barrow-Iron Pact and The Turncoat Contract. All early betas, all ESL-flagged, and most don't need SKSE. Break them and tell me.
+[Portfolio](https://synthalorian.pages.dev) · [X @thesynthalorian](https://x.com/thesynthalorian) · [Nexus Mods](https://www.nexusmods.com/profile/synthalorian) · [synth@synthalorian.com](mailto:synth@synthalorian.com)
 
-[Mods and known issues](https://synthalorian.com/mods/)
-
-## Glyphsmith
-
-Themes and tools for the Linux desktop: Omarchy and Hyprland themes, plus tools that make the whole setup match. One command in, one command out.
-
-- Themes: [Blackshield](https://github.com/synthalorian/omarchy-blackshield-theme), [Steel & Ember](https://github.com/synthalorian/omarchy-steel-and-ember-theme) ([all of them](https://github.com/synthalorian/glyphsmith-themes))
-- [Ricecard](https://github.com/synthalorian/ricecard): turns a desktop screenshot into a clean card to show off your setup on X and Reddit.
-- [Palette Forge](https://github.com/synthalorian/palette-forge): give it one Omarchy palette and it makes matching themes for ten apps.
-
-```sh
-omarchy-theme-install https://github.com/synthalorian/omarchy-blackshield-theme
-```
-
-[Explore Glyphsmith](https://synthalorian.com/glyphsmith/)
-
-## The knight
-
-The Blackshield knight is the company's mascot: black plate, red plume, a plain red cross on a black shield. He has five states (idle, thinking, working, success, error). The sprite atlas and its generator live in [blackshield-knight-sprite](https://github.com/synthalorian/blackshield-knight-sprite).
-
-## Hire the company
-
-I take contract work: dev tools, automation, audio plugins and game systems. If it's weird and technical, even better.
-
-[Contact](https://synthalorian.com/#contact) · synth@synthalorian.com · [X @thesynthalorian](https://x.com/thesynthalorian) · [Studio on X](https://x.com/BlackshieldCo)
+<sub>Issues and pull requests are welcome on any repo.</sub>
