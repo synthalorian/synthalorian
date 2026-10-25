@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  <img src="assets/helm-idle.gif" alt="" width="48" height="48" align="absmiddle">
+  <img src="assets/helm-cycle.gif" alt="" width="64" height="64" align="absmiddle">
   synthalorian
 </h1>
 
@@ -13,7 +13,7 @@ I'm synth. I build game engines, synths and local-first developer tools, mostly 
 
 I'm open to collaborators, contract work and full-time roles in game tech, audio software, AI developer tooling and security.
 
-## Start here
+## <img src="assets/helm-wave-sm.gif" alt="" width="32" height="32" align="absmiddle"> Start here
 
 | Project | What it is |
 | --- | --- |
